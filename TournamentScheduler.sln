@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TournamentScheduler", "TournamentScheduler\TournamentScheduler.csproj", "{0AFBF799-34CA-4BDD-A9DB-C2D55418876F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "Library\Library.csproj", "{F091798D-ABCE-43D1-8DE4-758868CF06DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AFBF799-34CA-4BDD-A9DB-C2D55418876F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AFBF799-34CA-4BDD-A9DB-C2D55418876F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AFBF799-34CA-4BDD-A9DB-C2D55418876F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AFBF799-34CA-4BDD-A9DB-C2D55418876F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F091798D-ABCE-43D1-8DE4-758868CF06DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F091798D-ABCE-43D1-8DE4-758868CF06DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F091798D-ABCE-43D1-8DE4-758868CF06DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F091798D-ABCE-43D1-8DE4-758868CF06DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E047EB11-209C-4170-BD15-E95050A26974}
+	EndGlobalSection
+EndGlobal
